@@ -128,7 +128,7 @@
         android:layout_height="80dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
-        android:src="@drawable/assets_next_button"
+        android:src="@drawable/assets_btn_nextprev"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

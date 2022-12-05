@@ -16,6 +16,7 @@ class TwoActivity : AppCompatActivity() {
         binding.btnNext.setOnClickListener {
             Intent(this, ThreeActivity::class.java).also {
                 startActivity(it)
+                finish()
             }
         }
     }
