@@ -39,6 +39,11 @@ class FiveActivity : AppCompatActivity() {
                     startActivity(it)
                 }
             }
+            btnDapus.setOnClickListener {
+                Intent(this@FiveActivity, TwentyTwoActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
         }
     }
 }
