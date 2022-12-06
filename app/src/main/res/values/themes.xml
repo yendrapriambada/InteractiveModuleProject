@@ -13,4 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="TextStyleBelleza">
+        <item name="android:fontFamily">@font/belleza</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">17sp</item>
+    </style>
 </resources>
