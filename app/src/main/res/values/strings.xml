@@ -37,4 +37,9 @@
     <string name="tujuanpembelajaran_6">Melalui kegiatan “Mind Mapping”, siswa dapat menguraikan bidang ekonomi kreatif yang ada di lingkungan sekitar.</string>
     <string name="tujuanpembelajaran_7">Melalui lembar “Refleksi, siswa dapat membuat laporan tentang apa yang dipelajarinya hari ini.</string>
     <string name="tujuanpembelajaran_8">Melalui kegiatan presentasi, siswa dapat mempresentasikan hasil refleksinya.</string>
+    <string name="kegiatan_ekonomi">Kegiatan Ekonomi</string>
+    <string name="content_box_mke">Pernahkah kalian membeli sayuran di pasar? Selain itu, apakah kalian juga pernah membantu orang tua berjualan? Apabila pernah maka kalian telah melakukan kegiatan ekonomi. Kira-kira apa yang dimaksud dengan kegiatan ekonomi?\n<b>Coba diskusikanlah dengan teman sebangkumu!</b></string>
+    <string name="conv_nine_guru_1">Setelah berdiskusi dengan teman sebangkumu apakah kini kamu mengetahui apa itu kegiatan ekonomi?</string>
+    <string name="nine_siswa_one">Saya sudah mengetahuinya Bu, akan tetapi Saya masih sedikit bingung, apa itu kegiatan ekonomi?</string>
+    <string name="nine_guru_two">Sekarang coba kamu perhatikan penjelasan berikut ini!</string>
 </resources>

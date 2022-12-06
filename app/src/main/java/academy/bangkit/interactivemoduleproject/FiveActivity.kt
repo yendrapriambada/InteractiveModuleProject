@@ -29,7 +29,11 @@ class FiveActivity : AppCompatActivity() {
                     startActivity(it)
                 }
             }
-
+            btnMke.setOnClickListener {
+                Intent(this@FiveActivity, EightActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
         }
     }
 }
