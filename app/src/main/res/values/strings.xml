@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">InteractiveModuleProject</string>
+    <string name="pengantar_petunjuk">Dalam mencapai tujuan dan prestasi belajar secara maksimal, berikut adalah langkah-langkah yang perlu kamu ikuti agar dapat memahami serta menggunakan modul ini dengan baik :</string>
+    <string name="petunjuk_1">Berdo’alah kepada Tuhan Yang Maha Esa sesuai dengan kepercayaan dan agamamu masing-masing.</string>
+    <string name="petunjuk_2">Pahamilah capaian pembelajaran dan tujuan pembelajaran yang tercantum agar kamu dapat mengetahui materi apa yang akan kamu pelajari dalam modul ini.</string>
+    <string name="petunjuk_3">Bacalah dan pahamilah uraian materi yang terdapat daam modul dengan seksama.</string>
+    <string name="petunjuk_4">Klik tombol</string>
+    <string name="petunjuk_4_1">untuk menuju ke halaman</string>
+    <string name="petunjuk_4_2">selanjutnya, dan klik</string>
+    <string name="petunjuk_4_3">untuk ke halaman</string>
+    <string name="petunjuk_4_4">sebelumnya</string>
+    <string name="petunjuk_5">Kamu juga bisa klik tombol</string>
+    <string name="petunjuk_5_1">untuk kembali</string>
+    <string name="petunjuk_5_2">ke bagian daftar isi</string>
+    <string name="petunjuk_6">Catatlah uraian materi yang menurutmu penting untuk menunjang pemahaman dasarmu.</string>
+    <string name="petunjuk_7">Kerjakanlah juga setiap rangkaian tugas dari soal evaluasi untuk mengukur penguasaan materi dalam modul ini.</string>
+    <string name="petunjuk_8">Jika setelah membaca, mengerjakan tugas, melaksanakan proyek, serta mengerjakan soal evaluasi kamu masih memperoleh hasil yang kurang memuaskan, maka ulangi kembali proses membaca dan memahami materi pada modul ini!</string>
+    <string name="no_1">1.</string>
+    <string name="no_2">2.</string>
+    <string name="no_3">3.</string>
+    <string name="no_4">4.</string>
+    <string name="no_5">5.</string>
+    <string name="no_6">6.</string>
+    <string name="no_7">7.</string>
+    <string name="no_8">8.</string>
+    <string name="semangat">JANGAN PUTUS ASA DAN TETAP SEMANGAT!</string>
 </resources>
