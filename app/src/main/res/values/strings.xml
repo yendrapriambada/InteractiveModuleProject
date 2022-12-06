@@ -42,4 +42,6 @@
     <string name="conv_nine_guru_1">Setelah berdiskusi dengan teman sebangkumu apakah kini kamu mengetahui apa itu kegiatan ekonomi?</string>
     <string name="nine_siswa_one">Saya sudah mengetahuinya Bu, akan tetapi Saya masih sedikit bingung, apa itu kegiatan ekonomi?</string>
     <string name="nine_guru_two">Sekarang coba kamu perhatikan penjelasan berikut ini!</string>
+    <string name="list_kunjaw">1. BENAR\n2. BENAR\n3. SALAH\n4. BENAR\n5. SALAH\n6. BENAR\n7. SALAH\n8. SALAH\n9. SALAH\n10. BENAR</string>
+    <string name="orang_yang_berhasil_adalah_mereka_yang_bersungguh_sungguh">\"orang yang berhasil adalah mereka yang bersungguh-sungguh\"</string>
 </resources>
