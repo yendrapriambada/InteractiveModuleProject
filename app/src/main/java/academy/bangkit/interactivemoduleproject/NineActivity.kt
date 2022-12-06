@@ -14,12 +14,12 @@ class NineActivity : AppCompatActivity() {
         binding = ActivityNineBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-//        binding.btnNext.setOnClickListener {
-//            Intent(this, NineActivity::class.java).also {
-//                startActivity(it)
-//                finish()
-//            }
-//        }
+        binding.btnNext.setOnClickListener {
+            Intent(this, TenActivity::class.java).also {
+                startActivity(it)
+                finish()
+            }
+        }
 
         binding.btnPrev.setOnClickListener {
             Intent(this, EightActivity::class.java).also {
