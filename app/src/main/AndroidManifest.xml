@@ -16,6 +16,13 @@
         android:theme="@style/Theme.InteractiveModuleProject"
         tools:targetApi="31">
         <activity
+            android:name=".SevenActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".SixActivity"
             android:exported="false">
             <meta-data

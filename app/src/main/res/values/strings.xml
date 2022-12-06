@@ -27,4 +27,14 @@
     <string name="capaian_pembelajaran">CAPAIAN PEMBELAJARAN</string>
     <string name="content_cp">Dalam mencapai tujuan dan prestasi belajar secara maksimal, berikut adalah langkah-langkah yang perlu kamu ikuti agar dapat memahami serta menggunakan modul ini dengan baik :</string>
     <string name="petunjuk_penggunaan_modul">Petunjuk Penggunaan Modul</string>
+    <string name="tujuan_pembelajaran">Tujuan Pembelajaran</string>
+    <string name="content_tp">Berikut adalah beberapa tujuan pembelajaran yang dimuat dalam materi pelajaran Kegiatan Ekonomi dan Ekonomi Kreatif :</string>
+    <string name="tujuanpembelajaran_1">Melalui pengamatan gambar “Kegiatan di Pasar”, siswa dapat mengidentifikasi kegiatan ekonomi yang ada di masyarakat.</string>
+    <string name="tujuanpembelajaran_2">Melalui kegiatan diskusi dengan teman sebangku, siswa dapat menjelaskan pengertian kegiatan ekonomi.</string>
+    <string name="tujuanpembelajaran_3">Melalui infografis jenis-jenis kegiatan ekonomi, siswa dapat menjelaskan pengertian produksi, distribusi, dan konsumsi yang ada di masyarakat.</string>
+    <string name="tujuanpembelajaran_4">Setelah mengamati video, “Ekonomi Kreatif”, siswa dapat menjelaskan pengertian ekonomi kreatif.</string>
+    <string name="tujuanpembelajaran_5">Melalui mengamati video, siswa dapat menganalisis berbagai bidang ekonomi kreatif.</string>
+    <string name="tujuanpembelajaran_6">Melalui kegiatan “Mind Mapping”, siswa dapat menguraikan bidang ekonomi kreatif yang ada di lingkungan sekitar.</string>
+    <string name="tujuanpembelajaran_7">Melalui lembar “Refleksi, siswa dapat membuat laporan tentang apa yang dipelajarinya hari ini.</string>
+    <string name="tujuanpembelajaran_8">Melalui kegiatan presentasi, siswa dapat mempresentasikan hasil refleksinya.</string>
 </resources>
