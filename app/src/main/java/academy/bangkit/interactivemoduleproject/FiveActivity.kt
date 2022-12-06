@@ -14,10 +14,18 @@ class FiveActivity : AppCompatActivity() {
         binding = ActivityFiveBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btnPrev.setOnClickListener {
-            Intent(this, FourActivity::class.java).also {
-                startActivity(it)
+        binding.apply {
+            btnPrev.setOnClickListener {
+                Intent(this@FiveActivity, FourActivity::class.java).also {
+                    startActivity(it)
+                }
             }
+            btnCp.setOnClickListener {
+                Intent(this@FiveActivity, SixActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
+
         }
     }
 }

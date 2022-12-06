@@ -11,14 +11,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <ImageView
+        <TextView
             android:id="@+id/tv_title"
-            android:layout_width="380dp"
-            android:layout_height="60dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="48dp"
             android:layout_marginEnd="16dp"
-            android:src="@drawable/assets_four_title"
+            android:fontFamily="@font/cupcakes"
+            android:text="@string/petunjuk_penggunaan_modul"
+            android:textColor="#000000"
+            android:textSize="36sp"
+            android:gravity="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />

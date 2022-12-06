@@ -25,18 +25,18 @@
 
         <ImageView
             android:id="@+id/btn_cp"
-            android:background="?attr/selectableItemBackgroundBorderless"
-            android:clickable="true"
             android:layout_width="360dp"
             android:layout_height="60dp"
             android:layout_marginStart="16dp"
-            android:layout_marginTop="24dp"
+            android:layout_marginTop="16dp"
             android:layout_marginEnd="16dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:focusable="true"
             android:src="@drawable/assets_five_btn_cp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tv_title"
-            android:focusable="true" />
+            app:layout_constraintTop_toBottomOf="@+id/tv_title" />
 
         <ImageView
             android:id="@+id/btn_tp"
