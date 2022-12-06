@@ -4,8 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#363636"
-    android:backgroundTint="#FCC9CF"
+    android:background="#FCC9CF"
     tools:context=".TenActivity">
 
     <TextView
@@ -64,17 +63,17 @@
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
         app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintTop_toTopOf="@+id/imageView"
-        app:srcCompat="@drawable/assets_ten_sawah" />
+        app:srcCompat="@drawable/assets_ten_distribusi" />
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/imageView4"
         android:layout_width="190dp"
         android:layout_height="160dp"
         android:layout_marginTop="8dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView5"
-        app:srcCompat="@drawable/assets_ten_sawah" />
+        app:srcCompat="@drawable/assets_ten_konsumsi" />
 
     <ImageView
         android:id="@+id/imageView"

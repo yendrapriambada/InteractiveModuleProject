@@ -5,8 +5,11 @@
       <map>
         <entry key="app/src/main/res/drawable/button.xml" value="0.191" />
         <entry key="app/src/main/res/drawable/gradient.xml" value="0.191" />
+        <entry key="app/src/main/res/layout/activity_eleven.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
-        <entry key="app/src/main/res/layout/activity_ten.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_ten.xml" value="0.36770833333333336" />
+        <entry key="app/src/main/res/layout/activity_thirteen.xml" value="0.3546195652173913" />
+        <entry key="app/src/main/res/layout/activity_twelve.xml" value="0.3546195652173913" />
       </map>
     </option>
   </component>
