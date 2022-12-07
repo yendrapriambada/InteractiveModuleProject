@@ -16,6 +16,15 @@
         android:theme="@style/Theme.InteractiveModuleProject"
         tools:targetApi="31">
         <activity
+            android:name=".SixteenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FifteenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FourteenActivity"
+            android:exported="false" />
+        <activity
             android:name=".TwentyThreeActivity"
             android:exported="false">
             <meta-data
