@@ -13,9 +13,27 @@ class TenActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityTenBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        binding.btnPrev.setOnClickListener{
-            Intent(this@TenActivity, ElevenActivity::class.java).also {
-                startActivity(it)
+
+        binding.apply {
+            btnProd.setOnClickListener{
+                Intent(this@TenActivity, ElevenActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
+            btnDistri.setOnClickListener{
+                Intent(this@TenActivity, TwelveActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
+            btnKonsumsi.setOnClickListener{
+                Intent(this@TenActivity, ThirteenActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
+            btnPrev.setOnClickListener {
+                Intent(this@TenActivity, NineActivity::class.java).also {
+                    startActivity(it)
+                }
             }
         }
     }
