@@ -37,4 +37,16 @@
     <string name="tujuanpembelajaran_6">Melalui kegiatan “Mind Mapping”, siswa dapat menguraikan bidang ekonomi kreatif yang ada di lingkungan sekitar.</string>
     <string name="tujuanpembelajaran_7">Melalui lembar “Refleksi, siswa dapat membuat laporan tentang apa yang dipelajarinya hari ini.</string>
     <string name="tujuanpembelajaran_8">Melalui kegiatan presentasi, siswa dapat mempresentasikan hasil refleksinya.</string>
+    <string name="kegiatan_ekonomi">Kegiatan Ekonomi</string>
+    <string name="content_box_mke">Pernahkah kalian membeli sayuran di pasar? Selain itu, apakah kalian juga pernah membantu orang tua berjualan? Apabila pernah maka kalian telah melakukan kegiatan ekonomi. Kira-kira apa yang dimaksud dengan kegiatan ekonomi?\n<b>Coba diskusikanlah dengan teman sebangkumu!</b></string>
+    <string name="conv_nine_guru_1">Setelah berdiskusi dengan teman sebangkumu apakah kini kamu mengetahui apa itu kegiatan ekonomi?</string>
+    <string name="nine_siswa_one">Saya sudah mengetahuinya Bu, akan tetapi Saya masih sedikit bingung, apa itu kegiatan ekonomi?</string>
+    <string name="nine_guru_two">Sekarang coba kamu perhatikan penjelasan berikut ini!</string>
+    <string name="list_kunjaw">1. BENAR\n2. BENAR\n3. SALAH\n4. BENAR\n5. SALAH\n6. BENAR\n7. SALAH\n8. SALAH\n9. SALAH\n10. BENAR</string>
+    <string name="orang_yang_berhasil_adalah_mereka_yang_bersungguh_sungguh">\"orang yang berhasil adalah mereka yang bersungguh-sungguh\"</string>
+    <string name="daftar_pustaka">Daftar Pustaka</string>
+    <string name="materi_kegiatan_ekonomi">Materi Kegiatan Ekonomi</string>
+    <string name="link_dapus_1">https://ditsmp.kemdikbud.go.id/kegiatan-ekonomi-produksi-distribusi-dan-konsumsi/</string>
+    <string name="materi_ekonomi_kreatif">Materi Ekonomi Kreatif</string>
+    <string name="title_cover_belakang">PENDIDIKAN GURU SEKOLAH DASAR\nDEPARTEMEN PEDAGOGIK\nFAKULTAS ILMU PENDIDIKAN\nUNIVERSITAS PENDIDIKAN INDONESIA\n2022</string>
 </resources>
