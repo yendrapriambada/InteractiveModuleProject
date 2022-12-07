@@ -13,7 +13,7 @@ class ElevenActivity : AppCompatActivity() {
         binding = ActivityElevenBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.btnPrev.setOnClickListener{
-            Intent(this@ElevenActivity, TwelveActivity::class.java).also {
+            Intent(this@ElevenActivity, TenActivity::class.java).also {
                 startActivity(it)
             }
         }
