@@ -17,6 +17,7 @@ class FourteenActivity : AppCompatActivity() {
             btnMenu.setOnClickListener {
                 Intent(this@FourteenActivity, FiveActivity::class.java).also {
                     startActivity(it)
+                    finish()
                 }
             }
         }
