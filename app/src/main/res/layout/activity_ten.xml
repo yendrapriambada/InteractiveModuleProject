@@ -57,26 +57,26 @@
 
 
     <ImageView
-        android:id="@+id/imageView5"
+        android:id="@+id/btn_distri"
         android:layout_width="190dp"
         android:layout_height="160dp"
-        app:layout_constraintBottom_toBottomOf="@+id/imageView"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintTop_toTopOf="@+id/imageView"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_prod"
+        app:layout_constraintStart_toEndOf="@+id/btn_prod"
+        app:layout_constraintTop_toTopOf="@+id/btn_prod"
         app:srcCompat="@drawable/assets_ten_distribusi" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/btn_konsumsi"
         android:layout_width="190dp"
         android:layout_height="160dp"
         android:layout_marginTop="8dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/btn_distri"
         app:srcCompat="@drawable/assets_ten_konsumsi" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/btn_prod"
         android:layout_width="190dp"
         android:layout_height="160dp"
         app:layout_constraintTop_toBottomOf="@+id/imageView2"
@@ -98,7 +98,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:orientation="horizontal"
-        app:constraint_referenced_ids="imageView,imageView5"
+        app:constraint_referenced_ids="btn_prod,btn_distri"
         app:flow_horizontalAlign="start"
         app:flow_verticalGap="8dp"
         app:layout_constraintBottom_toBottomOf="parent"

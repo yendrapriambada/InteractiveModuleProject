@@ -16,20 +16,6 @@
         android:theme="@style/Theme.InteractiveModuleProject"
         tools:targetApi="31">
         <activity
-            android:name=".TwentyActivity"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".NineTeenActivity"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".TwentyThreeActivity"
             android:exported="false">
             <meta-data
@@ -50,6 +36,35 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity
+            android:name=".TwentyActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".NineTeenActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".EighteenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SevenTeenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SixteenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FifteenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FourteenActivity"
+            android:exported="false" />
         <activity
             android:name=".ThirteenActivity"
             android:exported="false" />
