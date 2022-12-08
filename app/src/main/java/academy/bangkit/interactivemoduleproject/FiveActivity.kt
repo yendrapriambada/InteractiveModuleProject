@@ -34,6 +34,11 @@ class FiveActivity : AppCompatActivity() {
                     startActivity(it)
                 }
             }
+            btnEval.setOnClickListener {
+                Intent(this@FiveActivity, NineTeenActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
             btnKunjaw.setOnClickListener {
                 Intent(this@FiveActivity, TwentyOneActivity::class.java).also {
                     startActivity(it)
