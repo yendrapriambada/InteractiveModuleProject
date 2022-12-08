@@ -49,4 +49,17 @@
     <string name="link_dapus_1">https://ditsmp.kemdikbud.go.id/kegiatan-ekonomi-produksi-distribusi-dan-konsumsi/</string>
     <string name="materi_ekonomi_kreatif">Materi Ekonomi Kreatif</string>
     <string name="title_cover_belakang">PENDIDIKAN GURU SEKOLAH DASAR\nDEPARTEMEN PEDAGOGIK\nFAKULTAS ILMU PENDIDIKAN\nUNIVERSITAS PENDIDIKAN INDONESIA\n2022</string>
+    <string name="arahan_evaluasi">Bentuk evaluasi di bawah ini merupakan evaluasi Benar - Salah yang dapat kamu kerjakan pada buku tulismu, tulis kata benar jika kamu merasa pernyataan yang ada benar dan tulis kata salah jika kamu merasa pernyataan yang ada salah!</string>
+    <string name="soal_1">1. Sebuah aktivitas yang dilakukan oleh manusia untuk memenuhi kebutuhan hidupnya disebut dengan Kegiatan Ekonomi.</string>
+    <string name="soal_2">2. Produksi adalah kegiatan untuk menghasilkan suatu barang atau jasa. Pelaku dari kegiatan produksi disebut sebagai produsen. </string>
+    <string name="soal_3">3. Contoh dari produksi adalah grosis yang menjual sembako untuk masyarakat.</string>
+    <string name="soal_4">4. Orang yang melakukan distribusi disebut sebagai distributor.</string>
+    <string name="soal_5">5. Kegiatan ekonomi yang menghasilkan nilai guna suatu barang atau jasa secara berangsur-angsur disebut dengan konsumsi.</string>
+    <string name="soal_6">6. Ekonomi kreatif merupakan bidang perekonomian yang mengutamakan ide gagasan dan kreativitas dalam prosesnya.</string>
+    <string name="soal_7">7. Bidang mode dalam ekonomi kreatif ialah kegiatan dengan berbagai penciptaan, produksi, serta distribusi produk-produk dari para pengrajin.</string>
+    <string name="soal_8">8. Seni Drama tidak termasuk kepada jenis dalam bidang ekonomi kreatif.</string>
+    <string name="soal_9">9. Bidang perfilman, video, dan fotografi dalam ekonomi kreatif meliputi penciptaan dan produksi berbagai program di televisi seperti acara game, kuis, acara ragam, hingga infotainment. </string>
+    <string name="soal_10">10. Bidang desain dalam ekonomi kreatif meliputi segala kegiatan kreatif dalam hal desain, mulai dari grafis, interior, produk, industri, hingga desain untuk pemasaran produk</string>
+    <string name="benar">Benar</string>
+    <string name="salah">Salah</string>
 </resources>
