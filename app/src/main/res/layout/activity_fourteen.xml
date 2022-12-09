@@ -19,9 +19,11 @@
 
     <TextView
         android:id="@+id/textView8"
-        android:layout_width="370dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
         android:fontFamily="@font/singel_regular"
         android:text="Sekarang tuliskanlah poin-poin penting berdasarkan infromasi yang telah kamu dapatkan mengenai Kegiatan Ekonomi pada buku catatanmu!"
         android:textColor="#000000"
@@ -31,9 +33,11 @@
 
     <ImageView
         android:id="@+id/imageView7"
-        android:layout_width="370dp"
+        android:layout_width="0dp"
         android:layout_height="450dp"
+        android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView8"
