@@ -35,6 +35,11 @@ class TenActivity : AppCompatActivity() {
                     startActivity(it)
                 }
             }
+            btnNext.setOnClickListener {
+                Intent(this@TenActivity, FourteenActivity::class.java).also {
+                    startActivity(it)
+                }
+            }
         }
     }
 }
