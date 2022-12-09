@@ -37,34 +37,6 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView2"
         app:srcCompat="@drawable/assets_eleven_bgtext" />
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="9dp"
-        android:fontFamily="@font/singel_bold"
-        android:text="PENGERTIAN"
-        android:textColor="#000000"
-        app:layout_constraintEnd_toEndOf="@+id/imageView8"
-        app:layout_constraintHorizontal_bias="0.496"
-        app:layout_constraintStart_toStartOf="@+id/imageView8"
-        app:layout_constraintTop_toTopOf="@+id/imageView8" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="28dp"
-        android:layout_marginEnd="8dp"
-        android:text="Produksi merupakan kegiatan untuk menghasilkan suatu barang atau jasa. Pelaku dari kegiatan produksi disebut sebagai produsen. Tujuan dari produksi adalah guna memenuhi kebutuhan para pembeli atau konsumen dan mencari keuntungan dalam menghasilkan barang dan jasa."
-        android:textAlignment="center"
-        android:textColor="#000000"
-        android:textSize="12sp"
-        app:layout_constraintEnd_toEndOf="@+id/imageView8"
-        app:layout_constraintStart_toStartOf="@+id/imageView8"
-        app:layout_constraintTop_toTopOf="@+id/imageView8" />
-
     <ImageView
         android:id="@+id/imageView9"
         android:layout_width="90dp"

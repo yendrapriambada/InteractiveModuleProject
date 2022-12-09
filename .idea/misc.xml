@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/drawable/button.xml" value="0.191" />
         <entry key="app/src/main/res/drawable/button_menu.xml" value="0.2515" />
         <entry key="app/src/main/res/drawable/gradient.xml" value="0.191" />
+        <entry key="app/src/main/res/layout/activity_eight.xml" value="0.3546195652173913" />
         <entry key="app/src/main/res/layout/activity_eleven.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_fifteen.xml" value="0.3546195652173913" />
         <entry key="app/src/main/res/layout/activity_five.xml" value="0.18385416666666668" />
@@ -18,6 +19,10 @@
         <entry key="app/src/main/res/layout/activity_thirteen.xml" value="0.3546195652173913" />
         <entry key="app/src/main/res/layout/activity_three.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_twelve.xml" value="0.3546195652173913" />
+        <entry key="app/src/main/res/layout/activity_twenty.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_twenty_one.xml" value="0.3546195652173913" />
+        <entry key="app/src/main/res/layout/activity_twenty_three.xml" value="0.3546195652173913" />
+        <entry key="app/src/main/res/layout/activity_twenty_two.xml" value="0.3546195652173913" />
       </map>
     </option>
   </component>
