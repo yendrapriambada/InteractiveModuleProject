@@ -19,7 +19,10 @@ class TwentyActivity : AppCompatActivity() {
         val scoreNow = pref.getInt("score", 0)
         val nama = pref.getString("nama", "Siswa/Siswi")
         binding.tvScore.text = scoreNow.toString().trim()
-        binding.tvNama.text = nama.toString().trim()
+        binding.tvNama.text = buildString {
+        append("Halo, ")
+        append(nama.toString().trim())
+    }
 
         binding.btnUlangEvaluasi.setOnClickListener{
             val editor: SharedPreferences.Editor = pref.edit()

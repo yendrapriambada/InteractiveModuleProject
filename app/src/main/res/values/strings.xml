@@ -24,7 +24,7 @@
     <string name="no_7">7.</string>
     <string name="no_8">8.</string>
     <string name="semangat">JANGAN PUTUS ASA DAN TETAP SEMANGAT!</string>
-    <string name="capaian_pembelajaran">CAPAIAN PEMBELAJARAN</string>
+    <string name="capaian_pembelajaran">Capaian Pembelajaran</string>
     <string name="content_cp">Dalam mencapai tujuan dan prestasi belajar secara maksimal, berikut adalah langkah-langkah yang perlu kamu ikuti agar dapat memahami serta menggunakan modul ini dengan baik :</string>
     <string name="petunjuk_penggunaan_modul">Petunjuk Penggunaan Modul</string>
     <string name="tujuan_pembelajaran">Tujuan Pembelajaran</string>
@@ -62,4 +62,7 @@
     <string name="soal_10">10. Bidang desain dalam ekonomi kreatif meliputi segala kegiatan kreatif dalam hal desain, mulai dari grafis, interior, produk, industri, hingga desain untuk pemasaran produk</string>
     <string name="benar">Benar</string>
     <string name="salah">Salah</string>
+    <string name="lembar_refleksi">Lembar Refleksi</string>
+    <string name="evaluasi">Evaluasi</string>
+    <string name="kunci_jawaban">Kunci Jawaban</string>
 </resources>

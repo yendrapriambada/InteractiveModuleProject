@@ -19,42 +19,42 @@ class FiveActivity : AppCompatActivity() {
                     startActivity(it)
                 }
             }
-            btnCp.setOnClickListener {
+            imgCp.setOnClickListener {
                 Intent(this@FiveActivity, SixActivity::class.java).also {
                     startActivity(it)
                 }
             }
-            btnTp.setOnClickListener {
+            imgTp.setOnClickListener {
                 Intent(this@FiveActivity, SevenActivity::class.java).also {
                     startActivity(it)
                 }
             }
-            btnMke.setOnClickListener {
+            imgMke.setOnClickListener {
                 Intent(this@FiveActivity, EightActivity::class.java).also {
                     startActivity(it)
                 }
             }
-            btnMek.setOnClickListener {
+            imgMek.setOnClickListener {
                 Intent(this@FiveActivity, FifteenActivity::class.java).also {
                     startActivity(it)
                 }
             }
-             btnLr.setOnClickListener {
+            imgLr.setOnClickListener {
                 Intent(this@FiveActivity, SevenTeenActivity::class.java).also {
                     startActivity(it)
                 }
             }
-            btnEval.setOnClickListener {
+            imgEval.setOnClickListener {
                 Intent(this@FiveActivity, NineTeenActivity::class.java).also {
                     startActivity(it)
                 }
             }
-            btnKunjaw.setOnClickListener {
+            imgKunjaw.setOnClickListener {
                 Intent(this@FiveActivity, TwentyOneActivity::class.java).also {
                     startActivity(it)
                 }
             }
-            btnDapus.setOnClickListener {
+            imgDapus.setOnClickListener {
                 Intent(this@FiveActivity, TwentyTwoActivity::class.java).also {
                     startActivity(it)
                 }

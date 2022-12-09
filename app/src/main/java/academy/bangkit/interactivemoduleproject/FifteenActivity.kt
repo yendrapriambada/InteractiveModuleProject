@@ -13,7 +13,7 @@ import com.google.android.youtube.player.YouTubePlayerView
 
 class FifteenActivity : YouTubeBaseActivity() {
     private lateinit var binding: ActivityFifteenBinding
-    val VIDEO_ID = "cQGfLDnmWS8"
+    val VIDEO_ID = "-Brma3I5vso"
     val YOUTUBE_API = "AIzaSyDMby7ViahV_22dXer1uO9pg9fIFJcA1s4"
 
     private lateinit var youtubePlayer: YouTubePlayerView
