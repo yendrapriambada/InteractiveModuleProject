@@ -400,6 +400,16 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <ImageView
+            android:id="@+id/img_ayam"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="-50dp"
+            android:background="@drawable/assets_one_ayam"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
             android:id="@+id/btn_prev"
             android:layout_width="80dp"
             android:layout_height="80dp"

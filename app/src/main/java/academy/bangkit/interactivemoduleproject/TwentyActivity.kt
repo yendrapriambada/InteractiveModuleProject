@@ -26,7 +26,7 @@ class TwentyActivity : AppCompatActivity() {
 
         binding.btnUlangEvaluasi.setOnClickListener{
             val editor: SharedPreferences.Editor = pref.edit()
-            editor.clear();
+            editor.remove("score");
             editor.apply();
 
             val scoreAfterClear = pref.getInt("score", 0)
