@@ -18,7 +18,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/tv_kalimat_score"
+        android:id="@+id/tv_nama"
         style="@style/TextStyleBelleza"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -26,7 +26,7 @@
         android:layout_marginTop="60dp"
         android:layout_marginEnd="24dp"
         android:gravity="center"
-        android:text="Hallo, Livy!\nTerimakasih sudah mengerjakan Evaluasi.\nHasil Skor Evaluasi Kamu Adalah:"
+        android:text="Hallo, Livy!"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/img_score" />
@@ -36,11 +36,10 @@
         style="@style/TextTitleCupCakes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
         android:text="100"
-        app:layout_constraintEnd_toEndOf="@+id/tv_kalimat_score"
-        app:layout_constraintStart_toStartOf="@+id/tv_kalimat_score"
-        app:layout_constraintTop_toBottomOf="@+id/tv_kalimat_score" />
+        app:layout_constraintEnd_toEndOf="@+id/textView19"
+        app:layout_constraintStart_toStartOf="@+id/textView19"
+        app:layout_constraintTop_toBottomOf="@+id/textView19" />
 
     <Button
         android:id="@+id/btn_ulang_evaluasi"
@@ -63,6 +62,17 @@
         android:background="@drawable/button_menu"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/textView19"
+        style="@style/TextStyleBelleza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Terimakasih sudah mengerjakan Evaluasi.\nHasil Skor Evaluasi Kamu Adalah:"
+        android:textColor="#000000"
+        app:layout_constraintEnd_toEndOf="@+id/tv_nama"
+        app:layout_constraintStart_toStartOf="@+id/tv_nama"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nama" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
